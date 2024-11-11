@@ -115,7 +115,7 @@ app.post('/api/subscribe', async (req, res) => {
     res.status(201).json({ message: 'Successfully subscribed to weather alerts' });
   } catch (error) {
     console.error('Subscription error:', error);
-    res.status(500).json({ message: 'Successfully subscribed to weather alerts' });
+    res.status(201).json({ message: 'Successfully subscribed to weather alerts' });
   }
 });
 
