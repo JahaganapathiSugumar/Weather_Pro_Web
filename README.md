@@ -48,7 +48,10 @@ WeatherPro is a sleek and modern web application that provides real-time weather
 - 🌍 **For Travelers** – Plan trips with accurate weather insights.  
 - 🏡 **For Daily Commuters** – Prepare for the day's weather.  
 - ⛺ **For Outdoor Enthusiasts** – Avoid unexpected weather changes.  
-- ⛈ **For Emergency Preparedness** – Stay alert for severe conditions.  
+- ⛈ **For Emergency Preparedness** – Stay alert for severe conditions.
+
+## 📎 Live Demo  
+🔗 **Try it now:** [WeatherPro Website](https://weatherproweb.netlify.app/)  
 
 ---
 🌟 **Star this repo** if you found it useful! Feel free to contribute or raise issues for enhancements. 🚀  
