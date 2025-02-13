@@ -53,5 +53,5 @@ WeatherPro is a sleek and modern web application that provides real-time weather
 ## 📎 Live Demo  
 🔗 **Try it now:** [WeatherPro Website](https://weatherproweb.netlify.app/)  
 
----
+---_
 🌟 **Star this repo** if you found it useful! Feel free to contribute or raise issues for enhancements. 🚀  
